@@ -41,7 +41,7 @@ public class POOR12 {
             salario = nht * vhn;
         }
         
-        System.out.println("El trabajador " + nom + "devengo: " + salario);
+        System.out.println("El trabajador " + nom + " devengo: " + salario);
     }
 }
 
